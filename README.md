@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Black & White Calculator UI
 
 A modern calculator UI built with React and Tailwind CSS, featuring a black-and-white-only theme with no box shadows or colors. Fully responsive, with smooth button animations and large monospaced display.
@@ -34,3 +35,6 @@ Add Tailwind to your CSS entrypoint (e.g., `index.css`):
 ## Screenshot
 
 > _To be added: Run and see the responsive, modern black-and-white calculator!_
+=======
+# Calculator
+>>>>>>> 0aa902c1d9b35f89e5df3acf9c2cafea6ba63fa7
